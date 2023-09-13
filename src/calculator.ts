@@ -15,4 +15,7 @@ export class Calculator {
     return 0;
   }
 
+  public divide(x: number, y: number) : number {
+    return x / y;
+}
 };
